@@ -1,0 +1,12 @@
+.p1 {
+    color: #ffb032;
+}
+.p2 {
+    background-color: #ddd;
+}
+
+.p3 {
+    width: 600px;
+    height: 200px;
+    background-image: url('./Images/download.jpg');
+}

@@ -1,12 +1,29 @@
+.img1,
 .p1 {
-    color: #ffb032;
-}
-.p2 {
-    background-color: #ddd;
+    width: 150px;
 }
 
-.p3 {
-    width: 600px;
-    height: 200px;
-    background-image: url('./Images/download.jpg');
+.item {
+    border: 1px solid black;
+    height: 400px;
+    width: 150px;
 }
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    position: relative;
+    width: 400px;
+}
+
+.foot {
+    background-color: black;
+    color: white;
+    width: 150px;
+    text-align: center;
+    position: absolute;
+    bottom: -15px;
+    
+}
+

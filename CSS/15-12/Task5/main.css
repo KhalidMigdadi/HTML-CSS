@@ -1,0 +1,34 @@
+body {
+    background-color: #fff7f0;
+}
+
+section {
+    width: 550px;
+    background-color: white;
+    padding: 10px;
+    border: 1px solid black;
+    margin-bottom: 15px;
+}
+
+.ip {
+    background-color: orange;
+    font-weight: bold;
+    padding: 2px 5px;
+    opacity: .7;
+}
+
+
+.p2 {
+    border: 3px dashed orange;
+}
+
+.qu {
+    background-color: yellow;
+    font-weight: bold;
+    padding: 2px 5px;
+    opacity: .7;
+}
+
+.sec2 {
+    border: 2px dashed black;
+} 

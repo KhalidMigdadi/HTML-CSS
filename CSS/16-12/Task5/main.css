@@ -1,34 +1,59 @@
-body {
-    background-color: #fff7f0;
-}
-
-section {
-    width: 550px;
-    background-color: white;
-    padding: 10px;
-    border: 1px solid black;
-    margin-bottom: 15px;
-}
-
-.ip {
-    background-color: orange;
-    font-weight: bold;
-    padding: 2px 5px;
-    opacity: .7;
+* {
+    margin: 0px;
 }
 
 
-.p2 {
-    border: 3px dashed orange;
+.container {
+    background-color: #d8a420;
+    width: 600px;
+    height: 500px;
+    margin: 50px auto;
+    padding: 5px;
+    color: white;
+    font-size: 70px;
+    display: flex;
+    justify-content: space-around;
 }
 
-.qu {
-    background-color: yellow;
-    font-weight: bold;
-    padding: 2px 5px;
-    opacity: .7;
+.container div {
+    background-color: #ddd;
+    width: 70px;
+    text-align: center;
 }
 
-.sec2 {
-    border: 2px dashed black;
-} 
+.container .one {
+    background-color: #008000;
+
+}
+.container .two {
+    background-color: #ffff00;
+
+}
+.container .three {
+    background-color: #800080;
+    
+}
+.container .four {
+    background-color: #808080;
+
+}
+.container .five {
+    background-color: #0000ff;
+    
+}
+.container .six {
+    background-color: #ffa500;
+    
+}
+.container .seven {
+    background-color: #ffc0cb;
+    
+}
+.container .eight {
+    background-color: #ff0000;
+    
+}
+.container .nine {
+    background-color: #a52a2a; 
+    
+}

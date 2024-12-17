@@ -1,12 +1,13 @@
-h1 {
-    color: #ffb032;
+img {
+    width: 400px;
+    height: 200px;
 }
 
-h2,
-.para2 {
-    text-align: right;
-}
-
-.para2 {
-    font-family: 'Courier New', Courier, monospace;
+.container {
+    width: 500px;
+    margin: 50px 200px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    gap: 20px;
 }
