@@ -1,0 +1,14 @@
+@media (max-width: 426px) {
+    .bar {
+        display: none;
+    }
+
+    .profile-icon i:first-child {
+        margin-left: 45%;
+
+    }
+    .profile-icon i:last-child {
+        margin-left: -13%;
+
+    }
+}
